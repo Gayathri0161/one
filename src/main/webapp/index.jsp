@@ -888,15 +888,15 @@
                 <span class="product-badge">New</span>
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
-                    <h3>iPhone 14 Pro Max</h3>
-                    <div class="price">$3,500 <span class="old-price">$1,199</span></div>
+                    <h3>Samsung ultra galaxy M21</h3>
+                    <div class="price">$15<span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
             </div>
             <div class="product-card">
                 <span class="product-badge">New</span>
-                <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
+                <img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5286/5286503cv12d.jpg" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>iPhone 15 Pro Max</h3>
                     <div class="price">$17,500 <span class="old-price">$1,199</span></div>
